@@ -2,4 +2,4 @@
 
 ## Summary 
 
-This repository contains notes taken by Tushar for the Lighthouse Labs Web Development Bootcamp.
+This repository contains notes taken by [Tushar](https://github.com/tusharhchhabra) for the Lighthouse Labs Web Development Bootcamp.
